@@ -1,5 +1,9 @@
 One
 two
+<<<<<<< HEAD
 ready?
 Go!
+=======
+go
+>>>>>>> 542d88ba543e82b4845f1bd9429b5953b21cb733
 
